@@ -60,6 +60,14 @@ flows and Google Ads audience targeting.
 - **Total revenue at risk across churn segments: £5,503,679**
 - **Top international markets: Netherlands, EIRE, Germany** — European expansion priority
 
+## Visual Highlights
+
+![Customer Segmentation Map](outputs/customer_map_scatter.png)
+
+![Segment Size vs Revenue](outputs/segment_size_revenue.png)
+
+![Churn Model ROC Curve](outputs/roc_curve_comparison.png)
+
 ---
 
 ## Tools & Techniques
