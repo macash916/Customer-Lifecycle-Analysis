@@ -38,13 +38,13 @@ flows and Google Ads audience targeting.
 
 ## Notebooks
 
-| # | Notebook | Description |
-|---|---|---|
-| 01 | EDA & Cleaning | Schema review, null/duplicate handling, revenue trends, purchase timing analysis |
-| 02 | RFM Segmentation | Recency/Frequency/Monetary scoring, 7 customer personas, Pareto analysis |
-| 02b | SQL Analysis | 8 analytical queries — JOINs, window functions, GROUP BY, cohort analysis |
-| 03 | Churn Model | Logistic Regression vs Random Forest, ROC-AUC evaluation, marketing action layer |
-| 04 | Attribution | First-touch, last-touch, linear attribution comparison; channel ROI |
+| Notebook | Description |
+|---|---|
+| `01_eda.ipynb` | Exploratory data analysis — cleaning 1M+ rows, feature engineering, revenue patterns |
+| `02_rfm_segmentation.ipynb` | RFM scoring, 7-segment customer model, Klaviyo & Google Ads action mapping |
+| `02b_sql_analysis.ipynb` | SQL analysis — 8 queries across JOINs, window functions, churn cross-referencing |
+| `03_churn_model.ipynb` | Logistic Regression churn prediction, £5.5M revenue at risk quantified |
+| `04_campaign_attribution.ipynb` | First-touch, last-touch and linear attribution across 5 marketing channels |
 
 ---
 
